@@ -4,13 +4,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Mohammed_Al_ABnna\\TestPackage\\": "src/"
+            "TestPackage": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Mohammed_Al_ABnna\\TestPackage\\TestServiceProvider"
+                "TestPackage\\TestServiceProvider"
             ]
         }
     },
