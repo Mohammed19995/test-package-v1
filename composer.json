@@ -10,7 +10,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "TestPackage\\TestServiceProvider"
+                "Mohammed_Al_ABnna\\TestPackage\\TestServiceProvider"
             ]
         }
     },
